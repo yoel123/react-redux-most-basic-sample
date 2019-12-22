@@ -14,11 +14,13 @@ it's a simple example perfect for beginners.
 ## how to use:
 
 1)clone this repo (or download it)
+
 2)in the project folder run :
 ```
 npm install
 ```
 to install all the dependencies
+
 3)run the server using:
 ```
 npm start
@@ -40,6 +42,7 @@ alternates between clicked and not clicked (basic programming).
 inside yapp you have the ybtm component.
 
 *src/ybtn.js
+
 -first you have the action object
 
 -the onclick that dispatches the action (inside render)
